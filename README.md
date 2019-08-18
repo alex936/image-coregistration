@@ -6,3 +6,6 @@ Image co-registration using gradient-free optimization
 | ----- | ----- |  ----- |
 |<img src="data/target.png" alt="drawing" width="250"/>|<img src="data/input.png" alt="drawing" width="250"/>|<img src="data/output/progress.gif" alt="drawing" width="250"/>|
 
+# Usage
+
+* `python image_coregistration.py`
