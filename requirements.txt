@@ -1,4 +1,4 @@
 numpy==1.22.0
-Pillow==10.0.1
+Pillow==10.2.0
 scikit-image==0.15.0
 nevergrad==0.2.2
